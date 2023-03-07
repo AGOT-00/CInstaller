@@ -19,7 +19,7 @@ namespace CPPFormApp
     {
 
         HttpDownloader Downloader;
-        public String Url = "https://github.com/AGOT-00/others/raw/master/Mingw.zip";
+        public String Url = "https://github.com/AGOT-00/CInstaller/raw/master/Mingw.zip";
 
         public App()
         {
