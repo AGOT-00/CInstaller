@@ -42,6 +42,7 @@
             this.DownloadBar.Name = "DownloadBar";
             this.DownloadBar.Size = new System.Drawing.Size(537, 23);
             this.DownloadBar.TabIndex = 2;
+            this.DownloadBar.Click += new System.EventHandler(this.DownloadBar_Click);
             // 
             // Status
             // 

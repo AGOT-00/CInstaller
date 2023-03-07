@@ -144,5 +144,10 @@ namespace CPPFormApp
                );
             }
         }
+
+        private void DownloadBar_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
